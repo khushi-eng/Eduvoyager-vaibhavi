@@ -311,3 +311,4 @@ function App() {
 }
 
 export default App;
+console.log("ENV KEY:", import.meta.env.VITE_GEMINI_API_KEY)
